@@ -9,5 +9,14 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"mongoose": "^5.5.2",
+		"fastify": "^2.3.0"
+	},
+	"devDependencies": {
+		"nodemon": "^1.18.11",
+		"dotenv": "^8.0.0",
+		"mongoose-data-seed": "^1.0.7"
+	}
 }
